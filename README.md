@@ -1,1 +1,1 @@
-# js
+Alle Magento JS Files gebündelt.
